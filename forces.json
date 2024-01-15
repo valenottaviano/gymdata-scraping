@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "name": "Pull",
+        "url_name": "musclewiki.com/force",
+        "name_en_us": "Pull",
+        "description": "Pulling towards the body.",
+        "description_en_us": "Pulling towards the body."
+    },
+    {
+        "id": 3,
+        "name": "Push",
+        "url_name": "musclewiki.com/force",
+        "name_en_us": "Push",
+        "description": "Pushing away from the body.",
+        "description_en_us": "Pushing away from the body."
+    },
+    {
+        "id": 5,
+        "name": "Hold",
+        "url_name": "musclewiki.com/force",
+        "name_en_us": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing.",
+        "description_en_us": "Exercise which resists movement as opposed to inducing."
+    }
+]

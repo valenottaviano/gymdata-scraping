@@ -1,0 +1,1838 @@
+[
+    {
+        "exercise_id": 4,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 4,
+        "muscle_id": 35
+    },
+    {
+        "exercise_id": 4,
+        "muscle_id": 36
+    },
+    {
+        "exercise_id": 8,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 27,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 39,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 48,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 55,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 55,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 211,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 296,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 298,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 299,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 300,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 301,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 303,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 304,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 305,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 306,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 308,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 310,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 313,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 315,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 330,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 337,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 338,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 339,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 341,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 342,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 343,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 344,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 345,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 346,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 347,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 348,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 353,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 354,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 356,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 358,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 359,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 360,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 361,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 364,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 365,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 366,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 743,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 743,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 744,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 745,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 749,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 751,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 752,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 754,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 755,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 756,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 757,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 758,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 762,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 762,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 764,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 765,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 766,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 767,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 769,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 770,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 771,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 772,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 773,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 774,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 775,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 777,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 780,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 783,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 785,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 786,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 1054,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1058,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 1058,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 26,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 45,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 281,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 282,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 283,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 289,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 291,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 319,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 375,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 377,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 380,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 381,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 384,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 385,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 385,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 386,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 388,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 396,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 397,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 398,
+        "muscle_id": 19
+    },
+    {
+        "exercise_id": 398,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 401,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 402,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 405,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 409,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 410,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 411,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 412,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 416,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 417,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 418,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 420,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 421,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 422,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 423,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 426,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 427,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 428,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 429,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 433,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 435,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 438,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 439,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 440,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 441,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 445,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 446,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 447,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 452,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 453,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 454,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 456,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 457,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 461,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 462,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 464,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 467,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 467,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 468,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 469,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 561,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 564,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 569,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 572,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 573,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 574,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 576,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 578,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 583,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 889,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 1063,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 1064,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 1064,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1181,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 1184,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 1186,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 5,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 25,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 25,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 182,
+        "muscle_id": 19
+    },
+    {
+        "exercise_id": 182,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 183,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 184,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 186,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 187,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 189,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 194,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 197,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 198,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 321,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 373,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 373,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 475,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 866,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 1086,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 1136,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1137,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1138,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1139,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1141,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1143,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1145,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 1182,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 707,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 707,
+        "muscle_id": 34
+    },
+    {
+        "exercise_id": 707,
+        "muscle_id": 35
+    },
+    {
+        "exercise_id": 708,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 708,
+        "muscle_id": 34
+    },
+    {
+        "exercise_id": 708,
+        "muscle_id": 35
+    },
+    {
+        "exercise_id": 708,
+        "muscle_id": 36
+    },
+    {
+        "exercise_id": 709,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 710,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 710,
+        "muscle_id": 28
+    },
+    {
+        "exercise_id": 710,
+        "muscle_id": 29
+    },
+    {
+        "exercise_id": 712,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 716,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 716,
+        "muscle_id": 28
+    },
+    {
+        "exercise_id": 716,
+        "muscle_id": 29
+    },
+    {
+        "exercise_id": 718,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 718,
+        "muscle_id": 38
+    },
+    {
+        "exercise_id": 719,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 719,
+        "muscle_id": 38
+    },
+    {
+        "exercise_id": 723,
+        "muscle_id": 37
+    },
+    {
+        "exercise_id": 727,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 729,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 729,
+        "muscle_id": 38
+    },
+    {
+        "exercise_id": 730,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 730,
+        "muscle_id": 38
+    },
+    {
+        "exercise_id": 732,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 732,
+        "muscle_id": 38
+    },
+    {
+        "exercise_id": 733,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 734,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 58,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 60,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 67,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 69,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 70,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 78,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 79,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 80,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 81,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 83,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 84,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 85,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 91,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 97,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 98,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 100,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 894,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 895,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 896,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 897,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 898,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 900,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 901,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 904,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 905,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 906,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 907,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 908,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 909,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 910,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 911,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 912,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 915,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 916,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 919,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 920,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 923,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 924,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 924,
+        "muscle_id": 28
+    },
+    {
+        "exercise_id": 925,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 926,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 927,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 928,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 929,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 930,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 931,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 931,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 932,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 932,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 1069,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 1069,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1070,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 1070,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1071,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1154,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 1155,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 1157,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 1171,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 1175,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 1176,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 1178,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1179,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 217,
+        "muscle_id": 19
+    },
+    {
+        "exercise_id": 217,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 218,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 220,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 221,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 222,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 226,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 229,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 234,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 236,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 239,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 968,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 970,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 971,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 972,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 973,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 974,
+        "muscle_id": 20
+    },
+    {
+        "exercise_id": 975,
+        "muscle_id": 20
+    },
+    {
+        "exercise_id": 983,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 987,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 989,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 991,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 993,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 995,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 997,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 1001,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 1006,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 1007,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 1017,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 1018,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 1020,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 1031,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 1033,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 1046,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 253,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 260,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 264,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 269,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 271,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 273,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 274,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 275,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 276,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 277,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 500,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 502,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 505,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 518,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 522,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 523,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 476,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 479,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 480,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 480,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 483,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 484,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 484,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 485,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 486,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 488,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 489,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 489,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 490,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 493,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 494,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 496,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 497,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 504,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 506,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 511,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 513,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 517,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 517,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 521,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 524,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 529,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 531,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 532,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 533,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 535,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 537,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 539,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 540,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 544,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 545,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 585,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 598,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 604,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 605,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 606,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 607,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 609,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 610,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 614,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 615,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 617,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 618,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 619,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 623,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 624,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 625,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 626,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 627,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 633,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 635,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 636,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 637,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 638,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 642,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 644,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 645,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 646,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 653,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 656,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 657,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 658,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 660,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 661,
+        "muscle_id": 11
+    },
+    {
+        "exercise_id": 662,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 663,
+        "muscle_id": 11
+    },
+    {
+        "exercise_id": 664,
+        "muscle_id": 7
+    },
+    {
+        "exercise_id": 670,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 671,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 672,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 674,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 675,
+        "muscle_id": 10
+    },
+    {
+        "exercise_id": 677,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 678,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 680,
+        "muscle_id": 11
+    },
+    {
+        "exercise_id": 682,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 683,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 684,
+        "muscle_id": 15
+    },
+    {
+        "exercise_id": 686,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 688,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 689,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 690,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 692,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 694,
+        "muscle_id": 11
+    },
+    {
+        "exercise_id": 696,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 791,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 794,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 798,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 801,
+        "muscle_id": 37
+    },
+    {
+        "exercise_id": 802,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 803,
+        "muscle_id": 37
+    },
+    {
+        "exercise_id": 804,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 805,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 807,
+        "muscle_id": 12
+    },
+    {
+        "exercise_id": 809,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 811,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 812,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 813,
+        "muscle_id": 13
+    },
+    {
+        "exercise_id": 814,
+        "muscle_id": 22
+    },
+    {
+        "exercise_id": 819,
+        "muscle_id": 21
+    },
+    {
+        "exercise_id": 820,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 833,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 837,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 839,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 846,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 848,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 853,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 855,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 1089,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 1097,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 1199,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 1200,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 1201,
+        "muscle_id": 3
+    },
+    {
+        "exercise_id": 937,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 941,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 948,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 949,
+        "muscle_id": 2
+    },
+    {
+        "exercise_id": 950,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 950,
+        "muscle_id": 35
+    },
+    {
+        "exercise_id": 950,
+        "muscle_id": 36
+    },
+    {
+        "exercise_id": 951,
+        "muscle_id": 6
+    },
+    {
+        "exercise_id": 951,
+        "muscle_id": 5
+    },
+    {
+        "exercise_id": 954,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 955,
+        "muscle_id": 1
+    },
+    {
+        "exercise_id": 956,
+        "muscle_id": 4
+    },
+    {
+        "exercise_id": 957,
+        "muscle_id": 14
+    },
+    {
+        "exercise_id": 961,
+        "muscle_id": 8
+    },
+    {
+        "exercise_id": 962,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 963,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 964,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 965,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 966,
+        "muscle_id": 9
+    },
+    {
+        "exercise_id": 967,
+        "muscle_id": 9
+    }
+]

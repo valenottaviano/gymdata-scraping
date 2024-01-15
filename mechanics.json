@@ -1,0 +1,18 @@
+[
+    {
+        "id": 4,
+        "name": "Isolation",
+        "url_name": "musclewiki.com/force",
+        "name_en_us": "Isolation",
+        "description": "Exercise trains a single body part.",
+        "description_en_us": "Exercise trains a single body part."
+    },
+    {
+        "id": 3,
+        "name": "Compound",
+        "url_name": "musclewiki.com/mechanic",
+        "name_en_us": "Compound",
+        "description": "Exercise trains multiple body parts.",
+        "description_en_us": "Exercise trains multiple body parts."
+    }
+]

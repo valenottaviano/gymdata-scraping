@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2,
+        "name": "Underhand",
+        "name_en_us": "Underhand",
+        "description": "Supinated",
+        "description_en_us": "Supinated",
+        "url_name": "musclewiki.com/grips"
+    },
+    {
+        "id": 1,
+        "name": "Overhand",
+        "name_en_us": "Overhand",
+        "description": "Pronated",
+        "description_en_us": "Pronated",
+        "url_name": "musclewiki.com/grips"
+    },
+    {
+        "id": 4,
+        "name": "Mixed",
+        "name_en_us": "Mixed",
+        "description": "Mixed",
+        "description_en_us": "Mixed",
+        "url_name": "musclewiki.com/grips"
+    },
+    {
+        "id": 3,
+        "name": "Neutral",
+        "name_en_us": "Neutral",
+        "description": "Neutral",
+        "description_en_us": "Neutral",
+        "url_name": "musclewiki.com/grips"
+    },
+    {
+        "id": 5,
+        "name": "None",
+        "name_en_us": "None",
+        "description": "No use of hands in the exercise.",
+        "description_en_us": "No use of hands in the exercise.",
+        "url_name": "musclewiki.com/grips"
+    },
+    {
+        "id": 6,
+        "name": "Rotating",
+        "name_en_us": "Rotating",
+        "description": "Hands rotate",
+        "description_en_us": "Hands rotate",
+        "url_name": "musclewiki.com/grips/rotating"
+    },
+    {
+        "id": 7,
+        "name": "Pinch Grip",
+        "name_en_us": "Pinch Grip",
+        "description": "Pinch Grip",
+        "description_en_us": "Pinch Grip",
+        "url_name": "musclewiki.com/grips"
+    }
+]

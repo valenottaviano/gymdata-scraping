@@ -1,0 +1,3422 @@
+[
+    {
+        "exercise_id": 1,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 4,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 8,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 27,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 27,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 30,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 30,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 30,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 39,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 39,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 48,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 55,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 209,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 210,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 211,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 212,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 213,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 213,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 215,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 296,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 298,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 301,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 303,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 304,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 306,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 309,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 310,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 329,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 330,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 330,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 332,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 333,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 334,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 334,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 335,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 336,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 337,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 338,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 339,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 340,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 341,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 342,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 343,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 344,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 345,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 346,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 347,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 347,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 348,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 350,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 350,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 350,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 351,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 352,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 353,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 354,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 354,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 355,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 356,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 357,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 358,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 360,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 361,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 362,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 363,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 364,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 366,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 552,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 552,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 553,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 553,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 554,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 554,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 555,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 555,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 743,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 744,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 745,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 746,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 747,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 748,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 749,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 750,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 751,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 752,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 753,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 754,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 755,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 756,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 757,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 758,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 759,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 760,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 761,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 762,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 763,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 764,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 765,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 766,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 767,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 767,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 768,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 769,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 770,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 771,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 772,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 773,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 774,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 775,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 785,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 786,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 892,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1054,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1055,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1056,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1057,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1058,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1059,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1059,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1072,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1073,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1073,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1073,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 1074,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1074,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1183,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 2,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 3,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 7,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 11,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 12,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 32,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 45,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 46,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 281,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 282,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 283,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 285,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 287,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 289,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 290,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 291,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 291,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 294,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 294,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 316,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 317,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 319,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 375,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 376,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 377,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 379,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 380,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 381,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 382,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 384,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 385,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 386,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 387,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 388,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 389,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 391,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 392,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 393,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 394,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 395,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 396,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 397,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 398,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 399,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 400,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 401,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 402,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 403,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 404,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 405,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 405,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 406,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 406,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 407,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 408,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 409,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 409,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 410,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 411,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 412,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 413,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 414,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 415,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 416,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 417,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 418,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 419,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 420,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 421,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 422,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 423,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 424,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 425,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 426,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 427,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 428,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 429,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 430,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 431,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 432,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 432,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 433,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 434,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 435,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 436,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 437,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 438,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 439,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 440,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 441,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 443,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 443,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 444,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 444,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 445,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 446,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 446,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 447,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 448,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 449,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 450,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 452,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 453,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 454,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 455,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 456,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 457,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 458,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 459,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 459,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 460,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 460,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 461,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 461,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 462,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 462,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 463,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 464,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 464,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 465,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 465,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 466,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 466,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 467,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 468,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 468,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 469,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 470,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 471,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 472,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 472,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 473,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 561,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 562,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 563,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 564,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 565,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 565,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 566,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 566,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 567,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 567,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 568,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 568,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 569,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 570,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 570,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 571,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 572,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 573,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 574,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 575,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 577,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 578,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 579,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 580,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 581,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 582,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 583,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 860,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 885,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 889,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 890,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 893,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1060,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1061,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1062,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1063,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1063,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1064,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1065,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1066,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1068,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1125,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1125,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1126,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1126,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1126,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 1127,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1127,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1186,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1187,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1188,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1189,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1190,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1191,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1192,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1192,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1192,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1193,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1193,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1193,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 18,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 25,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 35,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 37,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 182,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 183,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 183,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 184,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 190,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 192,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 193,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 195,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 198,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 202,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 204,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 204,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 206,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 206,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 207,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 208,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 321,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 322,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 323,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 324,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 325,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 326,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 327,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 328,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 349,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 367,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 369,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 370,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 371,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 372,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 373,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 374,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 474,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 475,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 556,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 557,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 558,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 560,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 859,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 866,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 867,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 869,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 870,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 871,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 873,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 882,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1076,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1076,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1077,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1077,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 1078,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1079,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1080,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1082,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1083,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1085,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1086,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1087,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1132,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1133,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1134,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1138,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1140,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1141,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1142,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1143,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1144,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1145,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1147,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1149,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1182,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 719,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 724,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 731,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 59,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 60,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 60,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 62,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 63,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 64,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 64,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 66,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 66,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 69,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 70,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 71,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 78,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 79,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 81,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 90,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 91,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 98,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 99,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 101,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 886,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 887,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 888,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 894,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 895,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 896,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 897,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 898,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 899,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 900,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 901,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 902,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 903,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 904,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 905,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 906,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 907,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 908,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 909,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 910,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 911,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 912,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 913,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 914,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 915,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 915,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 916,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 917,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 918,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 919,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 920,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 921,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 922,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 922,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 923,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 925,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 926,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 927,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 928,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 929,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 929,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 930,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 930,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 931,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 932,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1069,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1070,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1071,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1153,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1154,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1155,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1156,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1157,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1157,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1158,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 1159,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1160,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1161,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1161,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1162,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1163,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1163,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1164,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1171,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1172,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1173,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1174,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1175,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1176,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1178,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1179,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 119,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 120,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 121,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 122,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 123,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 124,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 125,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 126,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 127,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 128,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 129,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 130,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 131,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 132,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 133,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 134,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 135,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 136,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 137,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 138,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 139,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 140,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 141,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 142,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 143,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 144,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 145,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 146,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 147,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 148,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 149,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 150,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 151,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 152,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 153,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 154,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 155,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 156,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 157,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 158,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 159,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 160,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 161,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 162,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 163,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 164,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 165,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 166,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 167,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 168,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1130,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1131,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 22,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 216,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 217,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 218,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 219,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 220,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 221,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 222,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 223,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 227,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 228,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 229,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 230,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 231,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 232,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 233,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 234,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 235,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 236,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 238,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 240,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 241,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 242,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 243,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 244,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 246,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 247,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 248,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 249,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 250,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 968,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 969,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 970,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 971,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 972,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 974,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 975,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 976,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 977,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 978,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 979,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 979,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 980,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 981,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 983,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 984,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 985,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 986,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 987,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 988,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 989,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 990,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 991,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 992,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 993,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 994,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 995,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 996,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 997,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 998,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 999,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1000,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1001,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1003,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1004,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1005,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1006,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1007,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1008,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1015,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1016,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1017,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1018,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1020,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1020,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1021,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1022,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1023,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1024,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1025,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1026,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1027,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1028,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1031,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1032,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1033,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1035,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1036,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1037,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1038,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1039,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1041,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1042,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1043,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1044,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1046,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1049,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 1050,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 264,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 266,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 268,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 269,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 274,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 275,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 498,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 499,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 500,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 501,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 502,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 503,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 505,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 508,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 509,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 510,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 512,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 514,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 515,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 516,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 518,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 520,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 522,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 523,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 525,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 526,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 527,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 476,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 477,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 478,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 480,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 481,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 483,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 484,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 485,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 486,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 488,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 489,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 490,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 491,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 492,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 493,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 494,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 495,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 496,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 497,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 504,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 506,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 507,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 511,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 513,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 517,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 519,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 521,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 524,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 528,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 529,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 530,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 531,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 532,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 533,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 534,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 535,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 536,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 537,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 538,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 539,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 540,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 541,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 542,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 543,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 544,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 545,
+        "grip_id": 7
+    },
+    {
+        "exercise_id": 546,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 547,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 548,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 549,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 550,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 551,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 879,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 880,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 585,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 586,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 587,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 588,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 589,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 589,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 590,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 590,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 591,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 591,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 592,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 594,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 595,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 596,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 597,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 597,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 598,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 599,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 600,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 600,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 601,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 602,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 603,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 604,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 605,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 605,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 606,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 607,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 608,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 608,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 609,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 610,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 611,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 612,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 612,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 613,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 613,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 614,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 615,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 639,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 699,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 861,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 799,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 800,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 801,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 802,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 803,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 804,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 804,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 805,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 806,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 807,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 808,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 809,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 811,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 812,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 813,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 814,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 816,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 817,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 819,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 820,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 833,
+        "grip_id": 6
+    },
+    {
+        "exercise_id": 834,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 835,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 836,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 837,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 838,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 839,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 841,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 842,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 843,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 844,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 845,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 846,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 847,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 848,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 848,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 850,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 851,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 852,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 853,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 855,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 856,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 857,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 857,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1088,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1089,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1091,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1092,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 1093,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 1094,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1095,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1096,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1097,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1100,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1199,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1200,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 1201,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 934,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 935,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 936,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 937,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 938,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 938,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 939,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 940,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 941,
+        "grip_id": 5
+    },
+    {
+        "exercise_id": 942,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 943,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 944,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 945,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 945,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 945,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 946,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 946,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 946,
+        "grip_id": 4
+    },
+    {
+        "exercise_id": 947,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 948,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 949,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 950,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 951,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 952,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 953,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 954,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 954,
+        "grip_id": 2
+    },
+    {
+        "exercise_id": 955,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 956,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 957,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 959,
+        "grip_id": 3
+    },
+    {
+        "exercise_id": 960,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 961,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 962,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 963,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 964,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 965,
+        "grip_id": 1
+    },
+    {
+        "exercise_id": 967,
+        "grip_id": 1
+    }
+]
